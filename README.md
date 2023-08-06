@@ -26,6 +26,7 @@
   </summary>
   <img src="https://github.com/Eunicekk/clone_kmong/assets/108565785/4bababa9-6f25-41f8-9c95-25152cd97dce"></img>
 </details>
+<br></br>
 
 ## 📌 주요 기능
 ### 화면 구현
